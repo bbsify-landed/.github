@@ -1,3 +1,3 @@
-# @bbsify
+# @bbsify-landed/.github
 
-This organization is for managing bbsify's personal services
+This repository is for managing the organization's main config
